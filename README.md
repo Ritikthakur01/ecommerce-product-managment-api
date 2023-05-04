@@ -4,8 +4,9 @@
 
 This is a E-commerce product management api built using express node js. User can do curd operations for product management. 
 <br/>
-Its has version flexibility feature. If any usr doesn't want to upgrade then he/she can continue with it's older version.
 <br/>
+Its has version flexibility feature. If any usr doesn't want to upgrade then he/she can continue with it's older version.
+
 
 ## 🔥 Getting Started With The Project
 
